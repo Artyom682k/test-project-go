@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/Artyom682k/test-project-go/models"
+	"github.com/Artyom682k/test-project-go/internal/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

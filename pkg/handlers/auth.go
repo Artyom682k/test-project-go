@@ -6,8 +6,8 @@ import (
 	"net/http"
 	_ "strings"
 
-	"github.com/Artyom682k/test-project-go/models"
-	"github.com/Artyom682k/test-project-go/services"
+	"github.com/Artyom682k/test-project-go/internal/models"
+	"github.com/Artyom682k/test-project-go/internal/services"
 )
 
 // RegisterHandler обрабатывает регистрацию

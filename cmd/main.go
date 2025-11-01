@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Artyom682k/test-project-go/handlers"
-	"github.com/Artyom682k/test-project-go/repositories"
-	"github.com/Artyom682k/test-project-go/services"
+	"github.com/Artyom682k/test-project-go/internal/repositories"
+	"github.com/Artyom682k/test-project-go/internal/services"
+	"github.com/Artyom682k/test-project-go/pkg/handlers"
 )
 
 func main() {
