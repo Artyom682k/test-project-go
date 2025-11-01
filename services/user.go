@@ -2,8 +2,8 @@ package services
 
 import (
 	"errors"
-	"github.com/yourusername/auth-go/models"
-	"github.com/yourusername/auth-go/repositories"
+	"github.com/Artyom682k/test-project-go/models"
+	"github.com/Artyom682k/test-project-go/repositories"
 )
 
 // UserService содержит логику бизнес-операций
