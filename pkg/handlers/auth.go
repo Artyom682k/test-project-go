@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"strings"
+	_ "strings"
 
 	"github.com/Artyom682k/test-project-go/models"
 	"github.com/Artyom682k/test-project-go/services"

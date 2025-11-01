@@ -3,6 +3,10 @@ package main
 import (
 	"fmt"
 	"net/http"
+
+	"github.com/Artyom682k/test-project-go/handlers"
+	"github.com/Artyom682k/test-project-go/repositories"
+	"github.com/Artyom682k/test-project-go/services"
 )
 
 func main() {

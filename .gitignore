@@ -15,7 +15,6 @@
 *.idea
 *.pid
 *.lock
-*.go~
 *.go.bak
 *.go.swo
 *.go.swn
