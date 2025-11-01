@@ -1,4 +1,4 @@
-module github.com/Artyom682/test-project-go
+module github.com/Artyom682k/test-project-go
 
 go 1.24.0
 
